@@ -1,15 +1,15 @@
 # Huawei Matebook D15 2020 Hackintosh
-![Huawei Matebook D15 2020 running MacOS Monterey](./assets/laptop.jpg)
+![Huawei Matebook D15 2020 running MacOS Monterey](./assets/screen.jpg)
 
 This repository provides instructions and resources for running macOS on the Huawei Matebook D15 2020, creating a Hackintosh setup. Please note that the process of installing macOS on non-Apple hardware, known as Hackintosh, may have compatibility and stability limitations.
 
 ## Specifications
 
 - **Model**: Huawei Matebook D15 2020 (BOHB-WAX9)
-- **Processor**: Intel Core i3-10110U @ 2.10GHz
-- **Graphics**: Intel UHD Graphics
+- **Processor**: Intel Core i5-10210U @ 1.6GHz
+- **Graphics**: Intel UHD Graphics 620
 - **RAM**: 8GB
-- **Storage**: 256GB SSD
+- **Storage**: 128GB SSD
 - **Wireless**: Intel Wireless-AC 9560 160MHz
 - **Audio**: Everest ES8316 (Not supported)
 
