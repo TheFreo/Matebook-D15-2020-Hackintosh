@@ -34,6 +34,8 @@ Before attempting to install macOS on your Huawei Matebook D15 2020, make sure y
 ## Known Issues
 
 - Audio may not work due to lack of support for the Everest ES8316 audio card.
+- Internal camera
+- Fingerprint sensor
 
 ## Contributing
 
